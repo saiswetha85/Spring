@@ -1,2 +1,2 @@
 # Spring
-Spring framework projects
+Spring JPA project using spring boot
